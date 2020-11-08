@@ -1,0 +1,4 @@
+output/pricelist.txt
+node_modules
+config/pricelist.json
+config/schema.json

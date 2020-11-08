@@ -1,0 +1,21 @@
+{
+  "name": "tf2autobot-get-items-name",
+  "version": "1.0.0",
+  "description": "A simple tool to extract the items name from your pricelist.json file.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "author": "IdiNium",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "fs-extra": "^9.0.1",
+    "tf2-schema-2": "^1.0.0",
+    "tf2-sku-2": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "prettier": "^2.1.2"
+  }
+}
