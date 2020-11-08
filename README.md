@@ -1,4 +1,4 @@
-# Easily get the items name list from your pricelist.json file!
+# Easily get a list of the items name from your pricelist.json file!
 
 Follow these steps:
 
